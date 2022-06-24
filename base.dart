@@ -7,7 +7,6 @@ void main() {
   // int nbPerson = 6 + 10; // Entier
   // double chocoGramme = 13.4; // Réel
   // bool isFavorite = true; // Booléan
-
   // // OU
 
   // var nom = "ADOU";
